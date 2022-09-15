@@ -3,7 +3,7 @@
 ## ★目录
 
 - [01-宽高详解](./03/README.md)
-- [02-coderwhy 前端系统课 HTML & CSS 部分](https://github.com/ppambler/fe-coderwhy#2html--css) `private`
+- [02-coderwhy 前端系统课 HTML & CSS](https://github.com/ppambler/fe-coderwhy#2html--css) `private`
 
 ## ★Inbox
 
